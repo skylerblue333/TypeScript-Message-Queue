@@ -1,0 +1,1 @@
+# TypeScript-Message-Queue\n\n## Overview\nEnterprise-grade message queue implementation in TypeScript.\n\n## Quick Start (1-Click Build)\n\n```bash\ngit clone https://github.com/skylerblue333/TypeScript-Message-Queue.git\ncd TypeScript-Message-Queue\n# Build instructions depend on the language\n```\n
